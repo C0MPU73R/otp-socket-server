@@ -1,1 +1,1 @@
-git+git://github.com/zaseth/bytearray.py.git#egg=ByteArray.py
+twisted==18.4.0

@@ -4,6 +4,6 @@ title otp-socket-server
 cd ../
 
 :main
-python3 -m server.base.ServerStart
+python -m server.base.ServerStart
 pause
 goto main
